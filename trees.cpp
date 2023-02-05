@@ -1,5 +1,3 @@
-#include <iostream>
-
 // binary search
 
 struct Node {
